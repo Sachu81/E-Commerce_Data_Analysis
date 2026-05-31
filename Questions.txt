@@ -1,0 +1,29 @@
+1.Display only OrderID, CustomerID, and TotalPrice.
+2.Find all orders with OrderStatus = 'Delivered'.
+3.Show orders where Quantity is greater than 5.
+
+
+1.Display orders where TotalPrice is between 500 and 2000.
+2.Find orders where OrderStatus is either 'Delivered' or 'Shipped'.
+
+1.Calculate the total revenue generated.
+2.Count the total number of orders.
+3.Find the total quantity sold across all products.
+4.Calculate total revenue generated using coupon codes.
+
+
+1.Calculate total sales for each product.
+2.Count orders for each payment method.
+3.Find the number of orders placed by each customer.
+4.Calculate monthly revenue.
+
+
+1.Find the top 5 products by revenue.
+2.Rank products based on total quantity sold.
+3.Calculate cumulative revenue over time.
+4.Find the percentage contribution of each product to total revenue.
+
+1.Rank products within each order status by revenue.
+2.Calculate each customer's percentage contribution to total revenue.
+
+
